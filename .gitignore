@@ -26,3 +26,14 @@ __pycache__/
 
 # MacOS
 .DS_Store
+
+# PDFs (kept locally, excluded from repo)
+*.pdf
+
+# Tests (kept locally, excluded from repo)
+tests/
+
+# Unused screenshots
+Screenshot*6.50.19*
+Screenshot*6.50.45*
+Screenshot*6.51.58*
